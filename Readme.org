@@ -1,0 +1,28 @@
+#+CATEGORY: paper, congreso, comunicación
+#+TAGS: periodismodatos, dataviz, ddj
+#+DESCRIPTION: Participación en la Séptima edición del concurso periodístico NIPHO
+#+TITLE: Periodismo de datos
+#+DATE: [2016-03-16 mié 10:30]
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolflow@gmail.com
+#+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+
+* Periodismo de Datos
+
+Presentación de /Periodismo de datos/ en la Séptima edición del concurso periodístico NIPHO de la Universidad Nebrija celebrado el 16 de marzo 2016 en la Asociación de la Prensa de Madrid.
