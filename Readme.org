@@ -23,6 +23,6 @@
 #+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
 #+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
 
-* Periodismo de Datos
-
 Presentación de /Periodismo de datos/ en la Séptima edición del concurso periodístico NIPHO de la Universidad Nebrija celebrado el 16 de marzo 2016 en la Asociación de la Prensa de Madrid.
+
+https://twitter.com/hashtag/NiphoNebrija?src=hash
